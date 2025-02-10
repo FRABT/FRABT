@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FRABT
-- 👀 I’m interested in programming and electronic.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on robotic and domotic projects.
+- 👀 I’m interested in programming and electronics.
+- 🌱 I’m currently learning Python, 3D modeling and technologies related to my interests.
+- 💻 I’m looking to collaborate in the development and improvement of robotic and domotic projects.
 - 📫 How to reach me franco.bidetti@gmail.com
 
 <!---
